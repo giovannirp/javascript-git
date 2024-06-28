@@ -1,0 +1,36 @@
+.container {
+    max-width: 400px;
+    border: 1px solid rgb(59, 58, 58);
+    margin: 80px auto;
+    text-align: center;
+    border-radius: 5px;
+    background: rgb(4, 108, 137);
+}
+
+form {
+    /*FlexBox*/
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.form-control input {
+   /*Tamanho largura*/
+    width: 100%;
+    max-width: 250px;
+    /*Efeito navegador*/
+    outline: none;
+}
+
+button {
+    /*Tamanho Altura*/
+    height: 22px;
+    /*Espaçamento*/
+    margin-left: 10px;
+    /*Cor de fundo*/
+    background: rgb(74, 74, 74);
+    /*Cor de texto*/
+    color: #fff;
+    /*Ponteiro*/
+    cursor: pointer;
+}
