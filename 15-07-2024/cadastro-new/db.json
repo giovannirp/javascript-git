@@ -1,0 +1,49 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "nome": "Pedro Lima",
+      "email": "pedro_lima@hotmail.com"
+    },
+    {
+      "id": "2",
+      "nome": "Fernanda Lima",
+      "email": "fernanda_lima@hotmail.com"
+    },
+    {
+      "id": "3",
+      "nome": "Carlos",
+      "email": "carlos@hotmail.com"
+    },
+    {
+      "id": "4",
+      "nome": "Adriana",
+      "email": "adriana@hotmail.com"
+    },
+    {
+      "id": "9aa1",
+      "nome": "Caio",
+      "email": "caio@hotmail.com"
+    },
+    {
+      "id": "fc1d",
+      "nome": "Fernando ",
+      "email": "fenando@hotmail.com"
+    },
+    {
+      "id": "ef29",
+      "nome": "fdfdf",
+      "email": "samuel.luis3@senaisp.edu.br"
+    },
+    {
+      "id": "062c",
+      "nome": "Janaina",
+      "email": "janaina@hotmail.com"
+    },
+    {
+      "id": "6a45",
+      "nome": "Renan",
+      "email": "renan@hotmail.com"
+    }
+  ]
+}
